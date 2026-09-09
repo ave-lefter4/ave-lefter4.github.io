@@ -1,0 +1,1 @@
+import{V as r,_t as a,tt as s}from"./DDNkh4e6.js";import{t}from"./RWUI5QJt.js";import{n as o}from"#entry";s();var n=Object.assign(o({},[["render",function(s,o){const n=t;return a(),r(n,{name:"material-symbols:arrow-drop-down-rounded",class:"scale-130"})}]]),{__name:"SignalSelectIcon"});export{n as t};
